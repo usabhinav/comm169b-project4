@@ -1,0 +1,158 @@
+<RealityCapture version="1.2.0.17385" sceneRevision="21" sceneId="{B67556F0-A0D4-47E0-85EE-4ECCF37016C7}">
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8506.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8507.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8508.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8509.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8510.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8511.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8512.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8513.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8514.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8515.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8516.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8517.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8518.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8519.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8520.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8521.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8522.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8523.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8524.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8525.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8526.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8527.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8528.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8529.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8530.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8531.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8532.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8533.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8534.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8535.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8536.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8537.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8538.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8539.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8540.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8541.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8542.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8543.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8544.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8545.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8546.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8547.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8548.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8549.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8550.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8551.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8552.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8553.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8554.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8555.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8556.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8557.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8558.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8559.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8560.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8561.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8562.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8563.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8564.JPG">
+        </input>
+        <input fileName="C:\Users\Imaginarium Admin\Downloads\2nd Try on JPG-20220422T164540Z-001\2nd Try on JPG\IMG_8565.JPG">
+        </input>
+    </source>
+    <reconstructions selectedComponentId="{ED3A3B34-D22C-4C89-9DFC-1F5CE433BAAA}">
+        <component name="Component 0" id="{A7228A93-604A-4CB9-B999-737822E22BBD}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="vr_project\sfm0.dat" selectedModel="0" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="vr_project\colorNormalization0.dat" />
+            <metadata fileName="vr_project\metadata0.dat"/>
+            <model name="Model 1" fileName="vr_project\model0.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000000-0000-0000-0000-000000000000}" >
+            </model>
+        </component>
+        <component name="Component 1" id="{11B5926F-D49D-48E9-8A47-58EF42C38CDE}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="vr_project\sfm1.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="vr_project\colorNormalization1.dat" />
+            <metadata fileName="vr_project\metadata1.dat"/>
+        </component>
+        <component name="Component 0 (1)" id="{ED3A3B34-D22C-4C89-9DFC-1F5CE433BAAA}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="vr_project\sfm2.dat" selectedModel="0" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="vr_project\colorNormalization2.dat" />
+            <metadata fileName="vr_project\metadata2.dat"/>
+            <model name="Model 1" fileName="vr_project\model1.dat" unwrappedArea="1.3183579760966168e+03" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.3340183533728123e-02" texturesUtilization="9.1146469116210938e-01" texelSize="1.2985121458768845e-02" chartsGutterSize="2" averageEdgeLength="6.2834930886896373e-02" coloringStyle="2" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="C5212D59-7E77-4C13-BBC9-7D07A2EA2C51a003bdb87e0590006a8d0e09b85bd821" cleanMark="2" selectedTxLayerGuid="{482B8289-55FE-4691-987C-4B11A2583EA1}" >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="42" id="{482B8289-55FE-4691-987C-4B11A2583EA1}" />
+                </textures>
+            </model>
+        </component>
+        <component name="Component 1 (1)" id="{213C198A-6FA5-4BF2-A3B7-FFAF30F2AFCA}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="vr_project\sfm3.dat" selectedModel="-1" sfmVisible="1"> 
+            <colorNormalization name="colorNormalization" fileName="vr_project\colorNormalization3.dat" />
+            <metadata fileName="vr_project\metadata3.dat"/>
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="vr_project\entities0.dat"/>
+    <animation fileName="vr_project\animation0.dat"/>
+    <controlpoints fileName="vr_project\controlpoints0.dat"/>
+    <appConfig fileName="vr_project\appConfig0.dat" />
+</RealityCapture>
