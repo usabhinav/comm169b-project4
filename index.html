@@ -7,14 +7,17 @@
         <a-scene embedded arjs>
         <a-marker preset="hiro">
 		<a-assets>
-			<a-asset-item id="animated-asset" src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"></a-asset-item>
+			<!-- <a-asset-item id="animated-asset" src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf"></a-asset-item> -->
+			<a-asset-item id="animated-obj" src="https://raw.githack.com/usabhinav/usabhinav-comm169b-project4.github.io/main/model/Gokhale-Becker-COMM169B-Week4.obj"></a-asset-item>
+			<a-asset-item id="animated-mtl" src="https://raw.githack.com/usabhinav/usabhinav-comm169b-project4.github.io/main/model/Gokhale-Becker-COMM169B-Week4.mtl"></a-asset-item>
+			
 		</a-assets>
             <!-- we use cors proxy to avoid cross-origin problems ATTENTION! you need to set up your server -->
             <a-entity
             position="0 0 0"
             scale="0.05 0.05 0.05"
             <!-- gltf-model="your-server/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf" -->
-			gltf-model="#animated-asset"
+			obj-model="obj: #animated-obj; mtl: #animated-mtl"
             ></a-entity>
         </a-marker>
         <a-entity camera></a-entity>
@@ -22,3 +25,5 @@
     </body>
 </html>
 
+
+<!-- https://raw.githack.com/usabhinav/usabhinav-comm169b-project4.github.io/main/model/Gokhale-Becker-COMM169B-Week4.mtl -->
